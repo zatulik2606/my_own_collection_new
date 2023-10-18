@@ -10,4 +10,4 @@
 - name: Test role for module
   hosts: all
   roles:
-    - test_namespace.test_collection.my_own_module
+    - my_own_namespace.yandex_cloud_elk
